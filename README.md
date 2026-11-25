@@ -1,4 +1,4 @@
-﻿# Airtable Projects
+# Airtable Projects
 
 A collection of practical projects that use Airtable as a data platform. Each project lives in its own folder and includes its source code, configuration, and instructions for running it.
 
@@ -24,7 +24,7 @@ Projects may use different languages and frameworks. Check each project's README
 
 ## Projects
 
-Projects will be listed here as they are added.
+- [airtable-api-crud-demo](projects/airtable-api-crud-demo/)
 
 ## Contributing
 
